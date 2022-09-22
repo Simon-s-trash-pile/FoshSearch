@@ -21,7 +21,7 @@ print(f"Loaded {len(index)} Messages")
 
 if __name__ == "__main__":
 	while True:
-		searchterm = input("Searchterm here:" )
+		searchterm = input("Search term here:" )
 		searched = search(searchterm,index)
 		print(f"{len(searched)} results found.")
 		print("#########################")
