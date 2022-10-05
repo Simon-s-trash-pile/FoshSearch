@@ -1,4 +1,4 @@
-# Logs last updated on 28.09.2022
+# Logs last updated on 05.10.2022
 
 ## main.py
 > Really simple search tool to search through logs of the fosh discord.
@@ -14,6 +14,8 @@
 > From my testing kinda useless but ehh
 
 # message_by_person
-> to be added
+> Lets you filter all messages by Username.
+> it does a "username in messagenam" check which means searching the name "karl" will show all messages of all users that have "karl" in their name.
+> Its intended since it doesent force you to enter the specifc Discord#5356 Tag
 
 ###### made by JCMS
