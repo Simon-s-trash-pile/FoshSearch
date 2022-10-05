@@ -13,7 +13,7 @@
 > Gives back top 10 words (can go further) while removing common filler words like "is" "I" etc
 > From my testing kinda useless but ehh
 
-# message_by_person
+# message_by_user.py
 > Lets you filter all messages by Username.
 > it does a "username in messagenam" check which means searching the name "karl" will show all messages of all users that have "karl" in their name.
 > Its intended since it doesent force you to enter the specifc Discord#5356 Tag
