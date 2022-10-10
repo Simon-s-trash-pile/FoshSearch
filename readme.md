@@ -1,4 +1,4 @@
-# Logs last updated on 05.10.2022
+# Logs last updated on 10.10.2022
 
 # main.py
 > Really simple search tool to search through logs of the fosh discord.
