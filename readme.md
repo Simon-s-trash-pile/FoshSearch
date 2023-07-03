@@ -19,4 +19,6 @@
 > it does a "username in messagenam" check which means searching the name "karl" will show all messages of all users that have "karl" in their name.
 > Its intended since it doesent force you to enter the specifc Discord#5356 Tag
 
+> to be converted into a standalone tool someday™
+
 ###### made by JCMS
